@@ -207,20 +207,20 @@ jQuery(document).ready(function() {
 	 * CVitae Achievement
 	 ************************************/
 
-	jQuery('.achievement-container').owlCarousel({
-		autoplay: true,
-		loop: true,
-		margin: 0,
-		nav: true,
-		navClass: ['owl-prev waves-effect waves-cvitae', 'owl-next waves-effect waves-cvitae'],
-		navSpeed: 1000,
-		responsive: {
-			0: {
-				items: 1
-			}
-		},
-		smartSpeed: 1000
-	});
+	// jQuery('.achievement-container').owlCarousel({
+	// 	autoplay: true,
+	// 	loop: true,
+	// 	margin: 0,
+	// 	nav: true,
+	// 	navClass: ['owl-prev waves-effect waves-cvitae', 'owl-next waves-effect waves-cvitae'],
+	// 	navSpeed: 1000,
+	// 	responsive: {
+	// 		0: {
+	// 			items: 1
+	// 		}
+	// 	},
+	// 	smartSpeed: 1000
+	// });
 
 	/************************************
 	 * CVitae Portfolio
